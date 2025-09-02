@@ -20,6 +20,4 @@ Two players take turns marking **X** or **O** on a 3×3 grid. The first to align
 
 ## 🌐 Demo
 
-👉 [Live Demo Here](#)
-
-## 📂 Project Structure
+👉 [Live Demo Here](https://tic-tac-toe-tic-tac.netlify.app/)
